@@ -26,20 +26,3 @@ function Home() {
 }
 
 export default Home;
-
-{
-	/* <Row className="mt-5" style={{ margin: "auto" }}>
-				<Col sm={12} md={6} lg={3}>
-					<PreCard cardTitle="Standard" cardText="Mint ." />
-				</Col>
-				<Col sm={12} md={6} lg={3}>
-					<PreCard cardTitle="Standard" cardText="Mint ." />
-				</Col>
-				<Col sm={12} md={6} lg={3}>
-					<PreCard cardTitle="Standard" cardText="Mint ." />
-				</Col>
-				<Col sm={12} md={6} lg={3}>
-					<PreCard cardTitle="Standard" cardText="Mint ." />
-				</Col>
-			</Row> */
-}
