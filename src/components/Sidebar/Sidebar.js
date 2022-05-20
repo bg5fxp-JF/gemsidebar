@@ -32,15 +32,7 @@ function Sidebar() {
 						</h1>
 					</Col>
 					<Col xs={8} sm={5} md={4}>
-						<Button
-							style={{
-								backgroundColor: "#091c29",
-								color: "#F66B0E",
-								borderColor: "#F66B0E",
-								outline: "none",
-							}}
-							className="menu-bar-row-button"
-						>
+						<Button variant="none" className="menu-bar-row-button">
 							Connect Wallet
 						</Button>
 					</Col>

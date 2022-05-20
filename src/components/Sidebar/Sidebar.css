@@ -11,17 +11,6 @@
 	width: 100%;
 	padding-left: 90px;
 }
-.menu-bar-row-button {
-	background-color: #091c29;
-	color: #f66b0e;
-	border-color: #f66b0e;
-	outline: "none";
-}
-
-.menu-bar-row-button:focus {
-	border-color: #f66b0e;
-	box-shadow: 0 0 0 0.1rem #f66b0e;
-}
 
 @media screen and (min-width: 1196px) {
 	.menu-bar-row {

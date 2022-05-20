@@ -17,3 +17,27 @@
 body {
 	background-color: #091c29;
 }
+
+.card {
+	background-color: #112b3c;
+	border-radius: 10px;
+	margin: auto auto 30px auto;
+	box-shadow: 1px 0px 20px 1px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+	background-color: #091c29;
+	color: #f66b0e;
+	border-color: #f66b0e;
+	margin: auto;
+	text-align: center;
+}
+
+.btn:hover {
+	color: #f66b0e;
+}
+
+.btn:focus {
+	border-color: #f66b0e;
+	box-shadow: 0 0 0 0.1rem #f66b0e;
+}
